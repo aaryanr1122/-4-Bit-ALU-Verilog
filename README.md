@@ -11,6 +11,17 @@ A 4-bit Arithmetic Logic Unit (ALU) designed and verified using Verilog HDL.
 - Bitwise XOR
 - Bitwise NOT
 
+## Operations
+
+| Select | Operation |
+|---------|---------|
+| 000 | Addition |
+| 001 | Subtraction |
+| 010 | AND |
+| 011 | OR |
+| 100 | XOR |
+| 101 | NOT |
+
 ## Status Flags
 
 ### Carry Flag
