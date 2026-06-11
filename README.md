@@ -34,6 +34,15 @@ Example:
 Result = 0000
 
 Zero = 1
+## Screenshots
+
+### ALU Design
+
+![ALU Design](alu_design.png)
+
+### Simulation Output
+
+![Simulation Output](simulation_output.png)
 
 ## Tools Used
 
